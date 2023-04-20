@@ -6,7 +6,7 @@ import re
 from scrapeops_python_requests.scrapeops_requests import ScrapeOpsRequests
 
 scrapeops_logger =  ScrapeOpsRequests(
-                    scrapeops_api_key="f03c00f3-5283-47a3-a76e-874e756a325e", 
+                    scrapeops_api_key= # Enter your API key, 
                     spider_name="jobs",
                     job_name="Indeed"
                     )
