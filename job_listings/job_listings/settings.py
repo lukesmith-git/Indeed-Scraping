@@ -20,7 +20,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 ROBOTSTXT_OBEY = False
 
 # Scrapeops
-SCRAPEOPS_API_KEY = "f03c00f3-5283-47a3-a76e-874e756a325e"
+SCRAPEOPS_API_KEY = # API Key required
 SCRAPEOPS_PROXY_ENABLED = True
 
 
